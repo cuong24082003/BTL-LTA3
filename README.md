@@ -1,9 +1,9 @@
 # Xây dựng ứng dụng Android sử dụng MIT APP INVENTOR
 ---
-### Author: Nguyễn Tuấn Anh
+### Author: Phạm Nguyên Cương
 ### Class: K57KMT
-### ID Student: K215480106003
-#### Video quay toàn bộ quá trình làm (3 hour): [Here](https://youtu.be/89Vu26tkhlA)
+### ID Student: K215480106010
+
 ----
 ## Yêu cầu:
 1. Tìm hiểu và xây dựng một app android cơ bản
@@ -127,9 +127,6 @@ else
 2. Cài đặt ứng dụng trên thiết bị Android.
 3. Mở ứng dụng và sử dụng các chức năng.
 
-## Tác giả
-- Họ tên: Nguyễn Tuấn Anh
-- Mã sinh viên: K215480106003
 
 
 
