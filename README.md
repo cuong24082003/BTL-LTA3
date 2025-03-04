@@ -22,9 +22,6 @@ https://github.com/user-attachments/assets/c490f04e-2ee6-494a-b509-331b8b62f681
 ------
 ### Khi vào màn hình chính của ứng dụng, sẽ có 2 lựa chọn, hiển thị thông tin cá nhân hoặc giải phương tình bậc 2
 ![image](https://github.com/user-attachments/assets/8b00c35a-77a4-410b-8fcc-2db42d105dc5)
-### Hiển thị thông tin cá nhân bảo gồm: tên sinh viên, Class, ID Sudent, Ảnh cá nhân, video
-----------
-![image](https://github.com/user-attachments/assets/83ef5d56-8ee8-4fb3-bb11-6c2dc5eeb78f)
 
 ### Bài toán tính các nghiệm của phương trình bậc 2
 -----------
